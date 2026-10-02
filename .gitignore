@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# timeular-local: personal data and captures stay out of the repo
+sides.json
+timeular_log.csv
+*.csv
+*.pcap
+*.pcapng
+.DS_Store
