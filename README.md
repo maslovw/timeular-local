@@ -5,7 +5,7 @@ Track time with your Timeular die over Bluetooth with no app, no account and no 
 previous face is written to a local CSV file.
 
 It uses [bleak](https://github.com/hbldh/bleak), so it runs on macOS, Linux and Windows.
-Tested on macOS with a Timeular Tracker (model `Tracker_001`, firmware 2.0.0).
+Tested on macOS and Windows with a Timeular Tracker (model `Tracker_001`, firmware 2.0.0).
 
 ## Requirements
 
